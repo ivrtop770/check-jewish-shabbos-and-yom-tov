@@ -11,7 +11,7 @@ This project helps determine whether a given date is a Jewish Shabbos (Sabbath) 
     ```
     or
     ```sh
-    git clone https://github.com/mmfapp/check-jewish-shabbos-and-yom-tov.git
+    git clone https://github.com/ivrtop770/check-jewish-shabbos-and-yom-tov.git
     ```
 2. Navigate to the project directory:
     ```sh
