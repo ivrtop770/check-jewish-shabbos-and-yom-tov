@@ -1,0 +1,15 @@
+{
+  "name": "check-jewish-shabbos-and-yom-tov",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "hebcal": "^2.3.2"
+  }
+}
